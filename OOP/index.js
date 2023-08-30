@@ -1,3 +1,4 @@
+//Curso: Object-oriented Programming in JavaScript: Made Super Simple | Moshs
 //1. Haciendo un objeto - Object Literal Syntax {OLS}
 const circle = {
     radius:1,
